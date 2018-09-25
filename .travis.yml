@@ -6,6 +6,14 @@ os:
 
 rvm:
   - jruby
+  
+before_install:
+  - gem update --system
+  - gem --version
+  
+script:
+- bundle exec rake build
+- bundle exec rake builddoc
 
 jobs:
   include:
