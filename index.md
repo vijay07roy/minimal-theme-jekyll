@@ -1,0 +1,4 @@
+## Welcome to Vijay GitHub Pages
+
+Parmanand holds a Bachelor of Architecture degree from Indian Institute of Technology, Roorkee, and Master of City and Regional Planning from the University of Texas at Arlington. He completed Ph.D. in Geospatial Information Sciences in January 2015 at the University of Texas at Dallas under the supervision of Dr. Daniel Griffith. In 2015, he took a position with Spatial Sciences Census Research Node as a post-doctoral research associate with Dr. Nicholas Nagle at the University of Tennessee to investigate the spatial structure of the American population and to design optimal sampling and reporting units for census surveys. Currently, he is a postdoctoral researcher with the Worldpop project at the University of Louisville in Louisville, Kentucky and focusing on developing approaches for dealing with computational issues in high-resolution population mapping.
+
