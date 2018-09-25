@@ -13,6 +13,3 @@ jobs:
       deploy:
         provider: rubygems
         gem: travis
-        on:
-          repo: travis-ci/travis.rb
-          ruby: 2.0.0
